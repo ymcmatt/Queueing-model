@@ -3,7 +3,7 @@ Computer System
 
 Queueing Network Model of:                                
 
-Single-queue single-server queueing system (one Markovian arrival process and one Markovian service discipline):
+Single-queue single-server queueing system (one Markovian arrival process & one Markovian service discipline):
      M / M / 1
 
 Finite Queue System:
